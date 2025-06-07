@@ -1,2 +1,2 @@
 # Pydantic
-- Here we will explore Pydantic
+- Working on Pydantic
